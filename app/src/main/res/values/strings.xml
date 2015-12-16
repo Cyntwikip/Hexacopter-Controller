@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Hexacopter Controller</string>
+    <string name="action_settings">Settings</string>
+</resources>
